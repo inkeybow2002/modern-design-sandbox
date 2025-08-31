@@ -1,6 +1,6 @@
 {
   "name": "modern-design-sandbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A responsive web application for experimenting with modern design principles.",
   "main": "index.js",
   "scripts": {
