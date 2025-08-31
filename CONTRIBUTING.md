@@ -7,7 +7,7 @@ Thank you for considering contributing to the **Modern Design Sandbox**! Here’
 
 ## Pull Requests
 - Fork the repository and create a new branch.
-- Make your changes and ensure everything works by running tests.
+- Make your changes and ensure everything works by running tests. Make sure to run `npm test` to check for any issues.
 - Submit a pull request with a clear description of your changes.
 
 ## Code Style
